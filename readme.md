@@ -59,7 +59,7 @@ php artisan vendor:publish --provider="Alariva\EmailDomainBlacklist\EmailDomainB
 
 Laravel Email Domain Blacklist is a lightweight package that extends your validation rules with `blacklist`.
 
-You may pass a local or remote JSON file containing all the blacklisted email domains, usually disposable email services.
+You can pass a local or remote JSON file containing all the blacklisted email domains, usually disposable email services.
 
 If you use a third-party remote list, you may also append your custom email domains.
 
